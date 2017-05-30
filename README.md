@@ -3,9 +3,9 @@
 **Name of your app** là một bài tập 2 tại môn ATBMHTTT. Bài tập yêu cầu sinh viên tạo cơ sở dữ liệu, mã hóa theo các yêu cầu.
 
 Thành viên:
-* [x] **1412538** Phan Hữu Thuận (redhead96)
-* [x] **1412557** Phạm Đức Toàn (tên tài khoản github)
-* [x] **1412604** Lữ Hoàng Phi Bơ (tên tài khoản github)
+* [] **MSSV 1** Họ tên (tên tài khoản github)
+* [] **MSSV 2** Họ tên (tên tài khoản github)
+* [] **MSSV 3** Họ tên (tên tài khoản github)
 
 ## Yêu cầu
 
